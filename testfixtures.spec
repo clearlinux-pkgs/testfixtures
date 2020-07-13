@@ -4,7 +4,7 @@
 #
 Name     : testfixtures
 Version  : 6.14.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/27/87/c7e7e4cb6e776e74513227c595b29816d2c905553c611e2ae9cfb57d85e1/testfixtures-6.14.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/27/87/c7e7e4cb6e776e74513227c595b29816d2c905553c611e2ae9cfb57d85e1/testfixtures-6.14.1.tar.gz
 Summary  : A collection of helpers and mock objects for unit tests and doc tests.
